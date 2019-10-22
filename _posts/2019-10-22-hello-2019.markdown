@@ -1,0 +1,32 @@
+---
+layout:     post
+title:      "My new blog."
+subtitle:   "MXY的新博客"
+date:       2019-10-22 12:00:00
+author:     "MXY"
+header-img: "img/post-bg-web.jpg"
+catalog: true
+tags:
+    - 生活
+    - Meta
+---
+
+> “今天开始记一些有趣的东西吧。 ”
+
+<pre>
+从 Sean Yang 处得知 github 的另一种用法，自高中以来好似几乎从未提笔，好不可惜。
+</pre>
+
+
+
+## 正文
+
+2019年10月22日，马星宇的新博客出生。
+
+
+
+
+
+## 后记
+
+Thanks to HUX, Sean Yang.
